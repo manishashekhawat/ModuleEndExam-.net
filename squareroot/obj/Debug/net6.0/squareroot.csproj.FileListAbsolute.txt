@@ -1,0 +1,15 @@
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\bin\Debug\net6.0\squareroot.exe
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\bin\Debug\net6.0\squareroot.deps.json
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\bin\Debug\net6.0\squareroot.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\bin\Debug\net6.0\squareroot.dll
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\bin\Debug\net6.0\squareroot.pdb
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.dll
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\refint\squareroot.dll
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.pdb
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\squareroot.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\.NET\squareroot\squareroot\obj\Debug\net6.0\ref\squareroot.dll
