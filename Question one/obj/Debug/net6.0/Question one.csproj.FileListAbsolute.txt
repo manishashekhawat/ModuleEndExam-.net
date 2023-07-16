@@ -1,0 +1,29 @@
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\appsettings.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\Question one.staticwebassets.runtime.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\Question one.exe
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\Question one.deps.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\Question one.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\Question one.dll
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\bin\Debug\net6.0\Question one.pdb
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.RazorAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.RazorAssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets\msbuild.Question one.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets\msbuild.build.Question one.props
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Question one.props
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Question one.props
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\scopedcss\bundle\Question one.styles.css
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.dll
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\refint\Question one.dll
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.pdb
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\Question one.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\.NET\Question one\Question one\obj\Debug\net6.0\ref\Question one.dll

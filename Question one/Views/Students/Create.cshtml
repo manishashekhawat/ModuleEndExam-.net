@@ -1,0 +1,34 @@
+﻿@model Question_one.Models.Student
+
+<h2>Create Student</h2>
+
+@using (Html.BeginForm("Create", "Students"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.RollNo)
+        @Html.TextBoxFor(m => m.RollNo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.RollNo)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name)
+        @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Name)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Stream)
+        @Html.TextBoxFor(m => m.Stream, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Stream)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Marks)
+        @Html.TextBoxFor(m => m.Marks, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Marks)
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+}

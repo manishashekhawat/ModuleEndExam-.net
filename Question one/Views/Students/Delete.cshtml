@@ -1,0 +1,35 @@
+﻿@model Question_one.Models.Student
+
+<h2>Delete Student</h2>
+
+<p>Are you sure you want to delete this student?</p>
+
+@using (Html.BeginForm("Delete", "Students"))
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(m => m.Id)
+
+    <div class="form-group">
+        <label>Roll No:</label>
+        <span>@Model.RollNo</span>
+    </div>
+
+    <div class="form-group">
+        <label>Name:</label>
+        <span>@Model.Name</span>
+    </div>
+
+    <div class="form-group">
+        <label>Stream:</label>
+        <span>@Model.Stream</span>
+    </div>
+
+    <div class="form-group">
+        <label>Marks:</label>
+        <span>@Model.Marks</span>
+    </div>
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index", "Students")" class="btn btn-secondary">Cancel</a>
+}
